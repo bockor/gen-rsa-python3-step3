@@ -12,4 +12,4 @@ Python3 Exercise Step 3
 	- Fork this repo 
 	- Clone it to your local drive
 	- Work on it locally on a new  "validate-user-input" branch
-	- push the branch to your remote GitHub repo when finished. 
+	- Push the branch to your remote GitHub repo when finished. 
