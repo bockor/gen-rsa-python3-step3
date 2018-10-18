@@ -25,5 +25,5 @@ Python3 Exercise Step 3
 	- git commit -m 'script changed' (snapshot the file)
 	- git push -u origin validate-user-input (sync your local with your remote repo)
 
-- BTW what's the difference between forking and clonong ?
+- BTW what's the difference between forking and cloning ?
 	- https://github.community/t5/Support-Protips/The-difference-between-forking-and-cloning-a-repository/ba-p/1372
