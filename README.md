@@ -13,3 +13,16 @@ Python3 Exercise Step 3
 	- Clone it to your local drive
 	- Work on it locally on a new  "validate-user-input" branch
 	- Push the branch to your remote GitHub repo when finished. 
+
+- After forking one could:
+	- git clone https://path-to-the-forked-git.git
+	- cd  path-to-the-forked-git
+	- git branch -a (show local & remote branches)
+	- git branch validate-user-input (create a new branch)
+	- git checkout validate-user-input (change to the new branch)
+	- vim myfile.py (implement your code here and save)
+	- git add myfile.py (stage the file)
+	- git commit -m 'script changed' (snapshot the file)
+	- git push -u origin validate-user-input (sync your local with your remote repo)
+
+
