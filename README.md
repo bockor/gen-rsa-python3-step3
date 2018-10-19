@@ -9,12 +9,9 @@ Python3 Exercise Step 3
 - Work with a "while" loop(s) until the user gets it right.  See the expectations.png screenshot.
 
 - It is evident that the focus is the implementation of the python code but in the light to get a grip on Git collaboration framework one could:
-	- Fork this repo 
-	- Clone it to your local drive
-	- Work on it locally on a new  "validate-user-input" branch
-	- Push the branch to your remote GitHub repo when finished. 
-
-- After forking one could:
+	- Fork the repo to your account, using the Fork button on the right
+    - Install git on your Ubuntu box
+		- https://linuxconfig.org/how-to-install-git-on-ubuntu-18-04-bionic-beaver-linux
 	- git clone https://path-to-the-forked-git.git
 	- cd  path-to-the-forked-git
 	- git branch -a (show local & remote branches)
